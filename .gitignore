@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+login.db-journal*
+login.db.backup-*
+login.db.bad-*
